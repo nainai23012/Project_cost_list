@@ -1,10 +1,4 @@
-Project cost list。Calculation of quantities，Calculate the project price
-基于Python语言开发，结合办公自动化excel、以及pyqt5可视化程序
-内置《广联达:GTJ2018、GTJ2021》
-工程量抓取与聚合与清单报表辅助填表系统、
-适用于造价行业工程量清单的计量、计价环节。
-一款不断进化的清单工具，强大到颠覆你的认知范畴。
-为何如此强大？应为经过多年沉淀，各领域各地区使用人员的不断述求迭代。
+基于Python语言开发，结合办公自动化excel、以及pyqt5可视化程序。内置《广联达:GTJ2018、GTJ2021》。工程量抓取与聚合与清单报表辅助填表系统、适用于造价行业工程量清单的计量、计价环节。一款不断进化的清单工具，强大到颠覆你的认知范畴。为何如此强大？应为经过多年沉淀，各领域各地区使用人员的不断述求迭代。
 Project cost list。Calculation of quantities，Calculate the project price
 
 ![image](https://user-images.githubusercontent.com/77518614/120287810-2f843600-c2f2-11eb-8c34-f567f5e65852.png)
