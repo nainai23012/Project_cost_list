@@ -1,4 +1,3 @@
-# Project_cost_list
 Project cost list。Calculation of quantities，Calculate the project price
 基于Python语言开发，结合办公自动化excel、以及pyqt5可视化程序
 内置《广联达:GTJ2018、GTJ2021》
